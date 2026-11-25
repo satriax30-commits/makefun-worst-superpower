@@ -1,0 +1,1 @@
+{"description":"Worst Superpower entry for make.fun: summon a single grain of sand once a day, anywhere on Earth except where you are standing.","license":"MIT","main":"main.ts","name":"makefun-worst-superpower","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
